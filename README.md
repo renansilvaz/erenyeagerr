@@ -1,6 +1,5 @@
 ## Olá, eu sou o Renan! ✌️
 
-##
 
 <a href="https://instagram.com/renan_silvaz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:renao070799@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
