@@ -1,21 +1,24 @@
 ## Olá, eu sou o Renan! ✌️
 
-<div>
-    
-    [![Twitter] (https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)] (https://twitter.com/silvaz_renan) 
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/renan-da-silva-santos-a79992160)
-    [![Discord] (https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)] (Renao#7142)
+##
 
-</div>
+<a href="https://instagram.com/renan_silvaz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:renao070799@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/renan-da-silva-santos-a79992160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/silvaz_renan" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+#
+
+<div>
 
 ![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=erenyeagerr&show_icons=true&theme=tokyonight)
 
-## Tecnologias que eu utilizo
-
-<div style="display: inline_block"><br>
-    <img alig="center" alt="javascript" scr="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img alig="center" alt="html5" scr="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img alig="center" alt="css3" scr="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img alig="center" alt="java" scr="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    <img alig="center" alt="php" scr="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
+
+###
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="php" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+
+
+  </div>
